@@ -27,5 +27,8 @@
     "hooks": {
       "pre-commit": "sh scripts/validate-branch-name"
     }
+  },
+  "dependencies": {
+    "npm": "^10.4.0"
   }
 }
