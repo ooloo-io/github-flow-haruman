@@ -5,8 +5,8 @@ body {
 
 .header {
   height: 50px;
-  display: flex;
   justify-content: center;
+  display: flex;
   align-items: center;
   border-bottom: 1px solid black;
 }
