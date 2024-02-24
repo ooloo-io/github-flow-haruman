@@ -4,12 +4,11 @@ body {
 }
 
 .header {
-  height: 50px;
-  justify-content: center;
+  height: 49px;
   display: flex;
+  justify-content: center;
   align-items: center;
   border-bottom: 1px solid black;
-}
 
 .footer {
   height: 51px;
